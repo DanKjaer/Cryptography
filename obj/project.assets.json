@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\RiderProjects\\Cryptography\\CLIprogram\\CLIprogram.csproj",
-      "projectName": "CLIprogram",
-      "projectPath": "C:\\Users\\Bruger\\RiderProjects\\Cryptography\\CLIprogram\\CLIprogram.csproj",
+      "projectUniqueName": "C:\\Users\\Bruger\\RiderProjects\\Cryptography\\Cryptography.csproj",
+      "projectName": "Cryptography",
+      "projectPath": "C:\\Users\\Bruger\\RiderProjects\\Cryptography\\Cryptography.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruger\\RiderProjects\\Cryptography\\CLIprogram\\obj\\",
+      "outputPath": "C:\\Users\\Bruger\\RiderProjects\\Cryptography\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
